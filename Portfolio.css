@@ -916,7 +916,7 @@ margin: 20px auto;
     width: 100%;
     display: flex;
     justify-content: space-around;
-    
+    padding-bottom: 10px;
 }
 .ins
 {
